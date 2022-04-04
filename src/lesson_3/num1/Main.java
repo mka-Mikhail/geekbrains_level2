@@ -1,4 +1,4 @@
-package lesson_3.homeWork.num1;
+package lesson_3.num1;
 
 import java.util.ArrayList;
 import java.util.HashSet;

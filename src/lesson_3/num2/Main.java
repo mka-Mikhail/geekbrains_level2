@@ -1,4 +1,4 @@
-package lesson_3.homeWork.num2;
+package lesson_3.num2;
 
 import java.util.*;
 
