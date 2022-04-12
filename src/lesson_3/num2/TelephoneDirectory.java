@@ -1,6 +1,6 @@
 package lesson_3.num2;
 
-public class TelephoneDirectory implements Comparable<TelephoneDirectory> {
+public class TelephoneDirectory {
 
     private String lastname;
     private String number;
@@ -16,11 +16,6 @@ public class TelephoneDirectory implements Comparable<TelephoneDirectory> {
 
     public String getNumber() {
         return number;
-    }
-
-    @Override
-    public int compareTo(TelephoneDirectory o) {
-        return getLastname().compareTo(o.getLastname());
     }
 
     @Override
